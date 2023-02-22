@@ -1,5 +1,5 @@
 # TI3005B.103_Synergy
-Repositorio para la materia de Transformación digital
+## Repositorio para la materia de Transformación digital
 
 Se realizará un protitpo de realidad aumentada del libro Cuenta y Canta el cual fomentara la lectura en niños
 Esta interacción será en la Feria Internacional del Libro y después de esta interacción se obtendrán datos
